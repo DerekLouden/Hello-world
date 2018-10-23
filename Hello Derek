@@ -1,1 +1,2 @@
-I created the .css file for a reason, if I were you, I'd look into the [Idle-Matic/docs](https://github.com/Zebralear/Idle-Matic/tree/master/docs) folder. Especially the Index.html and Index.css files.
+I created the .css file for a reason, if I were you, I'd look into the Idle-Matic "index.html" and "index.css"  
+or you could just use an internal Style Sheet
